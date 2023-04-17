@@ -1,0 +1,1 @@
+alert('Hello Guys - from alert.js file');
